@@ -1,0 +1,44 @@
+Name: Vaishnavi Janardhan
+USC ID: 3084414021
+School crawled: USC School of Cinematic Arts
+
+Fetch Statistics
+================
+# fetches attempted: 4989
+# fetches succeeded: 4798
+# fetches aborted: 0
+# fetches failed: 191
+
+Outgoing URLs:
+================
+Total URLs extracted: 22377
+# unique URLs extracted: 8159
+# unique URLs within School: 6906
+# unique USC URLs outside School: 225
+# unique URLs outside USC: 1028
+
+Status Codes:
+================
+200 OK: 4798
+301 Moved Permanently: 29
+302 Moved Temporarily: 49
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 113
+
+File Sizes:
+================
+< 1KB: 2
+1KB ~ <10KB: 2
+10KB ~ <100KB: 2497
+100KB ~ <1MB: 56
+>= 1MB: 0
+
+Content Types:
+================
+text/html: 2502
+image/gif: 0
+image/jpeg: 2239
+image/png: 0
+application/pdf: 54
+doc: 0
